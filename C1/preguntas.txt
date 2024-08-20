@@ -1,0 +1,42 @@
+##como se instancia una clase
+{
+~private string car;
+~this.car=car;
+-Car carro=new car;
+}
+##que tipo de atributos hay
+{
+~set,get
+-publicos,privados,protegidos
+~clase,objeto,metodos
+}
+##cual de las siguientes afirmaciones es verdadera
+{
+~una clase puede extender mas de un interfaz
+-una clase puede implementar mas de una interfaz
+~una clase puede ser instanciada sin un constructor
+}
+##cual de las siguientes afirmaciones es verdadera
+{
+~el polimorfismo no es posible en java
+~el polimorfismo se logra solo a traves de la sobre carga
+~el polimorfismo se logra solo a traves de la sobrescritura de metodos
+-ninguna de las anteriores
+}
+##cual de las siguientes opciones es el codigo correcto para crear un constructor en java
+{
+-public Miclase(){}
+~private Miclase(){}
+~public void Miclase(){}
+}
+##cual de las siguientes opciones es correcta
+{
+~una clase abstrcta que tiene solo metodos abtractos
+~una clase abstrcta que tiene solo metodos concretos
+-una clase abstrcta que tiene una combinacion de metodos abstractos y concretos
+}
+##cual es la opcion correcta si la clase tiene un constructor y acepta un tributo
+{
+~Persona persona =juan;
+-Persona persona =new Persona("juan",30);
+~Persona persona =30;
